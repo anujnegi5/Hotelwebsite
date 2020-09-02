@@ -1,2 +1,6 @@
 # Hotelwebsite
-this is a  hotel web template made from just HTML and CSS basics
+Just a basic HTML and CSS project.
+
+## Live Preview
+[Hotel Basic Webpage](https://anujnegi5.github.io/Hotelwebsite/hotel_website/index.html "Hotel Basic")
+
